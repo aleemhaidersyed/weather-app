@@ -1,0 +1,1 @@
+# 🌤️ Weather App - A modern responsive weather application with real-time data, 7-day forecast, dark/light theme, mobile responsive design, and uses free Open-Meteo API. Features include city search, current weather display with temperature/humidity/wind/pressure, weekly forecast, theme toggle, and beautiful gradient UI. Live at https://aleemhaidersyed.github.io/weather-app/
